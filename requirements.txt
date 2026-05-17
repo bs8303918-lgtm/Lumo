@@ -1,0 +1,9 @@
+aiogram==3.7.0
+Telethon==1.42.0
+httpx==0.28.1
+python-dotenv==1.2.2
+qrcode==8.2
+pillow==12.1.1
+pydantic>=2.4.1,<2.8
+aiosqlite==0.20.0
+ 
